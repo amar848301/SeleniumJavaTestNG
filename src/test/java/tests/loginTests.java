@@ -1,6 +1,5 @@
 package tests;
 
-import java.io.IOException;
 import org.testng.annotations.Test;
 import pageObjects.loginPageObject;
 import utility.Hooks;
